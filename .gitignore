@@ -1,0 +1,39 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Flask instance folder
+instance/
+
+# Flask log files
+*.log
+
+# Python egg and distribution metadata
+*.egg
+*.egg-info
+dist/
+build/
+
+# PyCharm IDE files
+.idea/
+
+# VS Code files
+.vscode/
+
+# Python packaging
+.Python
+.env
+*.pkl  # Model files (optional, if you don't want to track them)
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
